@@ -43,6 +43,7 @@
 </template>
 
 <script>
+  //******fenzhi
   export default{
       props: {
           seller: {
