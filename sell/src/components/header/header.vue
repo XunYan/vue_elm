@@ -43,7 +43,7 @@
 </template>
 
 <script>
-  //******fenzhi
+  var a=3322223;
   export default{
       props: {
           seller: {
